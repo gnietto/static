@@ -2,7 +2,7 @@
   "name": "static",
   "private": true,
   "main": "index.tsx",
-  "homepage": "https://gnietto.github.io/static",
+  "homepage": "https://gnietto.github.io/static/",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
