@@ -18,13 +18,13 @@ function Fvarela() {
       <Heading as="h1" textAlign="center" id="title">
         Tributo a Francisco Varela
       </Heading>
-      <Heading fontSize="md">
-        "His Contributions to our kowledge are already remarkable for their
+      <Heading fontSize="md" textAlign="center">
+        "His contributions to our knowledge are already remarkable for their
         originality, number and significance. As time goes on, the perceived
         noteworthiness of his work will no doubt increase, as will as belated
         appreciation of how much his death has cost us all"
       </Heading>
-      <Heading fontSize="md">Randall Whittaker</Heading>
+      <Heading fontSize="md" textAlign="center" >Randall Whittaker</Heading>
 
       <Text id="tribute-info" py="0.25rem">
         Francisco Varela nació en Chile el 7 de Septiembre de 1946. Tuvo 4
@@ -37,12 +37,12 @@ function Fvarela() {
         Humberto Maturana.
       </Text>
       <Text py="0.25rem">
-        La comunidad científica internacional de la época comenzó a referirse al
-        trabajo estos dos científicos chilenos con el nombre de La Escuela de
-        Santiago. Las publicaciones Principles of Biological Autonomy y
-        Autopoiesis and Cognition desde entonces son consideradas textos
-        centrales en el estudio de la Biología del Conocimiento y la Teoría de
-        la Autopoiesis.
+        La comunidad científica internacional de fines de la década de 1960
+        comenzó a referirse al trabajo estos dos científicos chilenos con el
+        nombre de La Escuela de Santiago. Las publicaciones <em>Principles of
+        Biological Autonomy</em> y <em>Autopoiesis and Cognition</em> desde entonces son
+        consideradas textos centrales en el estudio de la Biología del
+        Conocimiento y la Teoría de la Autopoiesis.
       </Text>
       <Text py="0.25rem">
         En algún momento de la década de 1980, los intereses científicos de
