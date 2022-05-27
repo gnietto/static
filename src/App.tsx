@@ -1,4 +1,3 @@
-// import React from 'react';
 import { Box, Tabs, TabList, Tab, TabPanels, TabPanel } from '@chakra-ui/react';
 import Fvarela from './Fvarela';
 
@@ -7,9 +6,9 @@ function App() {
     <Box>
       <Tabs>
         <TabList>
-          <Tab>Página Tributo</Tab>
-          <Tab>Documentación Técnica</Tab>
-          <Tab>Formulario Encuesta</Tab>
+          <Tab>Tributo</Tab>
+          <Tab>Doc Técnica</Tab>
+          <Tab>Encuesta</Tab>
         </TabList>
         <TabPanels>
           <TabPanel>
