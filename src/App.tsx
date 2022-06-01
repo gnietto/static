@@ -1,5 +1,6 @@
 import { Box, Tabs, TabList, Tab, TabPanels, TabPanel } from '@chakra-ui/react';
 import Fvarela from './Fvarela';
+import Doctecnica from './Doctecnica';
 
 function App() {
   return (
@@ -14,7 +15,9 @@ function App() {
           <TabPanel>
             <Fvarela />
           </TabPanel>
-          <TabPanel>Dos</TabPanel>
+          <TabPanel>
+            <Doctecnica />
+          </TabPanel>
           <TabPanel>Tres</TabPanel>
         </TabPanels>
       </Tabs>
